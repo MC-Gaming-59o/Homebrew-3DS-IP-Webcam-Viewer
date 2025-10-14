@@ -4,15 +4,15 @@
 IP-Cam Viewer for 3DS/2DS. Displays live video from Android devices running **IP Webcam** or **IP Webcam Pro**. Originally created as a Proof-of-Concept, now in active development as a Beta release. Future updates may come over the next months, although the current version is already highly functional.
 
 ## Requirements
-- 3DS or 2DS with Homebrew Launcher
+- 3DS or 2DS
 - Android device with IP Webcam or IP Webcam Pro installed
 - Network access (Wi-Fi)
 - Recommended host-app resolution: **320×240** for smooth performance. Upper screen (400×240) will display the same 320×240 image.
 
 ## Installation
-1. Download the `.3dsx` file from this repository.
-2. Launch the Homebrew Launcher on your 3DS/2DS.
-3. Select the IP-Cam Viewer `.3dsx` to run the app.
+1. Download the `.3dsx` or `.cia` file from this repository.
+2. Launch the Homebrew Launcher or install on your 3DS/2DS.
+3. Select the IP-Cam Viewer `.3dsx` or app on home menu to run the app.
 
 ## Features
 - Live streaming from IP Webcam devices
