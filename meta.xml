@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exheader>
+  <name xml:lang="en">IP Webcam Viewer</name>
+  <short_description xml:lang="en">Stream GUI</short_description>
+  <long_description xml:lang="en">A 3DS app for viewing IP Webcam streams.</long_description>
+  <developer>Philipp Althaus</developer>
+  <product_code>IPWV0001</product_code>
+  <version>6.0</version>
+  <unique_id>0x123456</unique_id>
+</exheader>
