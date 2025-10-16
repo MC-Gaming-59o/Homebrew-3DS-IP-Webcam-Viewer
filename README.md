@@ -1,5 +1,7 @@
 # IP-Cam Viewer for 3DS/2DS
 
+Contributions are welcome! If you have ideas, questions, or want to help develop new features, feel free to open an issue or pull request.
+
 ## Description
 IP-Cam Viewer for 3DS/2DS. Displays live video from Android devices running **IP Webcam** or **IP Webcam Pro**. Originally created as a Proof-of-Concept, now in active development as a Beta release. Future updates may come over the next months, although the current version is already highly functional.
 
